@@ -8,7 +8,7 @@
 
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ethanblomquist/azure-network-protocols)
 
-- [Rebuilding and Installing Operating Systems on a Thinkpad T480 Laptop](https://github.com/ethanblomquist/thinkpad-upgrades)
+- [Installing Hardware and Operating Systems on a Thinkpad T480 Laptop](https://github.com/ethanblomquist/thinkpad-upgrades)
 
 - [Exploring VPNs and Virtualizaion (Simple Experiment)](https://github.com/ethanblomquist/azure-vpn)
 
