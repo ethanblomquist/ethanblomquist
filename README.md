@@ -4,8 +4,6 @@
 
 - [osTicket(Help Desk Ticketing System): From Installation to Ticket Resolution](https://github.com/ethanblomquist/osticket)
 
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ethanblomquist/azure-network-protocols)
-
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ethanblomquist/configure-ad)
   - [Digging Deeper into Networking and Active Directory](https://github.com/ethanblomquist/AD-DNS )
 
