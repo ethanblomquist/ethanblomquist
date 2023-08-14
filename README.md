@@ -7,7 +7,7 @@
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ethanblomquist/azure-network-protocols)
 
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ethanblomquist/configure-ad)
-  - [Digging Deeper into Active Directory and DNS](https://github.com/ethanblomquist/AD-DNS )
+  - [Digging Deeper into Networking and Active Directory](https://github.com/ethanblomquist/AD-DNS )
 
 -  [Simple VPN Experiment](https://github.com/ethanblomquist/azure-vpn)
 
