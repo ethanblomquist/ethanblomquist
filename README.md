@@ -5,8 +5,7 @@
 - [osTicket(Help Desk Ticketing System): From Installation to Ticket Resolution](https://github.com/ethanblomquist/osticket)
 
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ethanblomquist/configure-ad)
-
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ethanblomquist/azure-network-protocols)
+  -  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ethanblomquist/azure-network-protocols)
 
 - [Installing Hardware and Operating Systems on a Thinkpad T480 Laptop](https://github.com/ethanblomquist/thinkpad-upgrades)
 
